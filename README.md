@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Devyani Patil</h1>
+<h3 align="center">Student | Aspiring Software Developer 🚀</h3>
 
-<!--
-**PatilDevyani30/PatilDevyani30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+- 🎓 Student passionate about learning and building real-world projects  
+- 💻 Interested in software development and problem-solving  
+- 🌱 Always exploring new technologies  
+- 🚀 Focused on improving skills step by step  
+
+---
+
+### 🛠️ Skills & Tools
+- 💻 Programming & Development  
+- 🧠 Logical Thinking & Problem Solving  
+- 🌐 Web Application Basics  
+- 📊 Database Fundamentals  
+
+---
+
+### 📌 What You'll Find Here
+- 📂 Academic & practice projects  
+- 🧪 Mini projects & experiments  
+- 📘 Learning-based repositories  
+- 🚀 Continuous improvements  
+
+---
+
+### 📫 Contact Me
+- 📧 **Email:** patildevyani1230@gmail.com  
+
+---
+
+### ⚡ Fun Fact
+> Learning never stops — every line of code makes me better 😄
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+</p>
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
